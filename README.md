@@ -1,4 +1,4 @@
-<h1>PCB files for my sensorless BLDC motor controller!</h1><br>
+<h3>PCB files for my sensorless BLDC motor controller!</h3><br>
 <h4>I was inspired by other students and ElectroNoobs</h4><br>
 
 HBridge Driver
